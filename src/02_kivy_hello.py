@@ -22,7 +22,7 @@ class KivyHelloApp(App):
                      background_color=(0.2, 0.4, 0.9, 1))
         btn.bind(on_release=lambda *_: setattr(btn, "text", "Enjoy your day!"))
         layout.add_widget(btn)
-        layout.add_widget(Label(text="Centered & cozy layout", font_size="16sp",
+        layout.add_widget(Label(text="Muhammad Farel Alfathir", font_size="16sp",
                                 color=(0.3, 0.3, 0.3, 1)))
         return layout
 
