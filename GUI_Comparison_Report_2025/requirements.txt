@@ -1,0 +1,5 @@
+dearpygui
+kivy[base]
+remi
+pyinstaller
+
